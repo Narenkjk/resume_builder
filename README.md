@@ -6,4 +6,11 @@ Web based editor to create Resume in a customizable template with the facility t
 i.e. for both fresher and experienced. And also according to the kind of degree one has. 
 Users are asked to fill up the necessary fields such as academics, personal, interests, hobbies, publications, courses, projects, position of repsonsibility, extra curriculars, experience and so on. 
  The answers provided by the users are instantly used up and the system generates a well-structured live resume. Users have option to create resume in Pdf and Print it too. 
+ 
+ 
+ 
+ use  it as a project repository if u need 
+ change names and places in preview in each of the index .html pages
+ favicon has issues , will be rectified soon
+ 
 
